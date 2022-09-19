@@ -13,4 +13,3 @@ Lets consider a situation of a ice-cream cone seller. He wants to predict the sa
 10. Full Time Series 
 11. Stock Predictions 
 12. Anamoly Predictions 
-13. Byesian Time Series 

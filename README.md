@@ -12,4 +12,6 @@ Lets consider a situation of a ice-cream cone seller. He wants to predict the sa
 9. Granger Models
 10. Full Time Series 
 11. Stock Predictions 
-12. Anamoly Predictions 
+12. Anamoly Predictions : Please look at the link [here](https://github.com/ritvikmath/Time-Series-Analysis/blob/master/STL%20Decomposition.ipynb) for STL analysis 
+
+Thanks [Ritvik](https://www.youtube.com/watch?v=ZoJ2OctrFLA&list=PLvcbYUQ5t0UHOLnBzl46_Q6QKtFgfMGc3) for amazing lectures on time seris 
